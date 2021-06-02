@@ -5,4 +5,4 @@
 
 
 <p align="center"><b>My Discord</b></p>
-<img src="https://discord.c99.nl/widget/theme-3/847538707258146858.png">
+<img src="https://discord.c99.nl/widget/theme-1/847538707258146858.png">
