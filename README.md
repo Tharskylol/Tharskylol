@@ -1,16 +1,8 @@
-Deddy Tharsky || Skidding my repostoriesK
-
-Retired Coder 
-
-<img src="https://cdn.discordapp.com/attachments/775212346401620018/781547766890496030/IMG_exlaqu.gif" alt="Avatar" style="border-radius: 75%;">
-
-![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=overbitching&show_icons=true&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=overbitching&show_icons=true&theme=dark)
+<img src="https://komarev.com/ghpvc/?username=peeonecolor=blue" alt="fax" width="" height="">
+<h1 align="center">Hi There 👋</h1>
+<br>
+<h1 align="center">Bored So Why Not Code?</h1>
 
 
-<a href="https://www.https://www.youtube.com/channel/UCxMk-osy-Ar3LYSlPLX6WZg">youtube</a>
-<a href="https://dsc.bio/p/hoeing">discord</a>
-<a href="https://open.spotify.com/user/wxx8fw2khtw68ur1qxjt3iasf">spotify</a>
-<a href="https://discord.gg/5NwuYxx6Rk">baesian sever</a>
-<a href="https://github.com/bullyed">github alt</a>
+<p align="center"><b>Socials</b></p>
+<img src="https://discord.c99.nl/widget/theme-3/847538707258146858.png">
